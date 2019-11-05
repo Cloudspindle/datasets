@@ -1,9 +1,9 @@
 CyclingFastOnGravelSurface ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-Driving	  ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-JogginOnTheSpot	,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-Pushups ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-Situps ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-Stretching,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-CyclingOverPothole	    ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-HockeyStickSwing,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-Squats_accel,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
+Driving	  ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Driving_accel.json 
+JogginOnTheSpot	,https://raw.githubusercontent.com/Cloudspindle/datasets/master/JogginOnTheSpot_accel.json 
+Pushups ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Pushups_accel.json 
+Situps ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Situps_accel.json 
+Stretching,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Stretching_accel.json 
+CyclingOverPothole	    ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingOverPotHole_accel.json 
+HockeyStickSwing,https://raw.githubusercontent.com/Cloudspindle/datasets/master/HockeyStickSwing_accel.json 
+Squats_accel,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Squats_accel.json 
