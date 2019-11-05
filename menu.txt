@@ -7,5 +7,3 @@ Stretching,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Cyclin
 CyclingOverPothole	    ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
 HockeyStickSwing,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
 Squats_accel,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
-
-
