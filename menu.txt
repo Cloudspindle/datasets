@@ -1,4 +1,4 @@
-CyclingFastOnGravelSurface ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
+Cycling,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingFastOnGravelSurface_accel.json 
 Driving	  ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Driving_accel.json 
 JogginOnTheSpot	,https://raw.githubusercontent.com/Cloudspindle/datasets/master/JogginOnTheSpot_accel.json 
 Pushups ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Pushups_accel.json 
