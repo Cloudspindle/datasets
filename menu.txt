@@ -6,4 +6,4 @@ Situps ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Situps_ac
 Stretching,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Stretching_accel.json 
 CyclingOverPothole	    ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingOverPotHole_accel.json 
 HockeyStickSwing,https://raw.githubusercontent.com/Cloudspindle/datasets/master/HockeyStickSwing_accel.json 
-Squats_accel,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Squats_accel.json 
+Squats,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Squats_accel.json 
