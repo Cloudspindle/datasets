@@ -5,5 +5,5 @@ Pushups ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Pushups_
 Situps ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Situps_accel.json 
 Stretching,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Stretching_accel.json 
 Cycling Over Pothole	    ,https://raw.githubusercontent.com/Cloudspindle/datasets/master/CyclingOverPotHole_accel.json 
-Hockey_Stick_Swing,https://raw.githubusercontent.com/Cloudspindle/datasets/master/HockeyStickSwing_accel.json 
+HockeyStick,https://raw.githubusercontent.com/Cloudspindle/datasets/master/HockeyStickSwing_accel.json 
 Squats,https://raw.githubusercontent.com/Cloudspindle/datasets/master/Squats_accel.json 
